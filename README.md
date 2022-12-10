@@ -1,5 +1,5 @@
 soooooo
 
-site: https://bebrabebra.000webhostapp.com/
+my telegram: t.me/poptartsclub
 
 end
