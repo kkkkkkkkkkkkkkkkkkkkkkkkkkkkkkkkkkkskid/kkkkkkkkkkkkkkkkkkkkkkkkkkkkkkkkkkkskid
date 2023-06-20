@@ -1,5 +1,5 @@
-soooooo
+import webbrowser
 
-my telegram: t.me/poptartsclub
-
-end
+print("my telegram page")
+webbrowser.open("t.me/pornhubmanager")
+print("end")
